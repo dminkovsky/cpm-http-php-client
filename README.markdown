@@ -8,16 +8,14 @@
 
 ## Example
 
-Concrete example can be found in [`Cpm\Salesforce\Client`](https://github.com/dminkovsky/cpm-salesforce-sdk-php/blob/master/src/Cpm/Salesforce/Client.php#L240)
-
-Simple example:
+Real example can be found in [`Cpm\Salesforce\Client`](https://github.com/dminkovsky/cpm-salesforce-sdk-php/blob/master/src/Cpm/Salesforce/Client.php#L174).
 
 ```php
 
 // Load things with Composer. Alternatively, can be loaded manually.
 require 'vendor/autoload.php';
 
-use Cpm\HttpClient 
+use Cpm\HttpClient;
 
 
 // GET data

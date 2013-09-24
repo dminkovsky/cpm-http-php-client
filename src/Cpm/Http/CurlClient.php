@@ -1,7 +1,7 @@
 <?php
-namespace Cpm;
+namespace Cpm\Http;
 
-class CurlHttpClient implements IHttpClient {
+class CurlClient implements IClient {
 
   /** @var resource cURL handle */
   private $_handle;

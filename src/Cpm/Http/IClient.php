@@ -1,8 +1,8 @@
 <?php
-namespace Cpm;
+namespace Cpm\Http;
 
 
-interface IHttpClient {
+interface IClient {
 
   /**
    * Set a request header

@@ -9,5 +9,6 @@
     "psr-0": {
       "Cpm": "src/"
     }
-  }
+  },
+  "preferred-install": "dist"
 }
